@@ -551,4 +551,8 @@ const localQuotes = [
     text: "You can do what's reasonable or you can decide what's possible.",
     author: null,
   },
+  {
+    text: 'The snack that smiles back',
+    author: 'Goldfish',
+  },
 ];
