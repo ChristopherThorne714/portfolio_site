@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'quote_generator',
     'blog',
     'portfolio',
+    'exchangerate_calculator',
 ]
 
 MIDDLEWARE = [
