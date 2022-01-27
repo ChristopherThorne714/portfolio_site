@@ -1,0 +1,18 @@
+
+
+
+.col-lg-4 {
+    border-style: ridge;
+}
+
+.img-row {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 25%;
+}
+
+.row {
+    height: 45%;
+}
