@@ -16,3 +16,8 @@
 .row {
     height: 45%;
 }
+
+.font-weight-bold {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: whitesmoke;
+}
